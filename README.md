@@ -1,1 +1,1 @@
-# Grupo_Ruiz_Bitacora_4to4ta_2026
+Hoy hicimos el analisis de necesidad del proyecto y tambien trabajamos en un ciclo de via.
