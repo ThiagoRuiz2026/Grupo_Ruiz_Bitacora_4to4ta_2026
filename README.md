@@ -1,1 +1,1 @@
-# Grupo_Ruiz_Bitacora_4to4ta_2026
+Lo primero fue llegar a un acuerdo con mi grupo sobre que componente ah elegir luego determinamos usar el SPST de conmutadores, luego busque un video en Youtube sobre como conectarlo y usarlo con un ARDUINO
