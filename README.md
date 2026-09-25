@@ -1,1 +1,1 @@
-# Grupo_Ruiz_Bitacora_4to4ta_2026
+hoy me encargue de hacer el esquema de nuestro trabajo y intentar resolverlo pero aun tengo dificultades con el codigo y con la maldita pantalla que nunca me funciona, el trabajo del codigo se lo deje a mis compañeros de equipo
