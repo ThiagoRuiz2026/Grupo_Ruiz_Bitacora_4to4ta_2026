@@ -1,1 +1,2 @@
-# Grupo_Ruiz_Bitacora_4to4ta_2026
+
+Hoy terminamos de armar la maqueta del proyecto final, con su caja y todo funcionó bien
